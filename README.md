@@ -1,2 +1,2 @@
-# Management-of-Student-Information-using-Linked-Lists-in-C-
+# Management-of-Student-Information-using-Linked-Lists-in-C++
 In this project, a program will store and manage student information using linked lists. Three classes have been created, which are Student class, Exam class and Subject class. Student class is used to store student information and the Exam class is used to store information for past exam for a student in a trimester. The Subject class is used to store information for a subject taken by student. 
