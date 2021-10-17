@@ -2,11 +2,11 @@
 
 In this project, a program will store and manage student information using linked lists. Three classes have been created, which are Student class, Exam class and Subject class. Student class is used to store student information and the Exam class is used to store information for past exam for a student in a trimester. The Subject class is used to store information for a subject taken by student. 
 
-# Tools to Use
+### Tools to Use
 
 1.  Microsoft Visual Studio 2017
 
-# File Description
+### File Description
 
 1.  Linkedlist.docx - Diagram for the design of linked list.	
 2.  Student.txt  - Text file to store student information
