@@ -14,3 +14,4 @@ In this project, a program will store and manage student information using linke
 4.  Functions.docx- Description for each functions of program
 5.  SourceCode - Source Code of the program
 6.  Classes.docx - Description of classes involved.
+7.  SampleOutput.txt - Output of program.
